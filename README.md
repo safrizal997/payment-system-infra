@@ -8,8 +8,7 @@ Docker Compose terpusat untuk menjalankan seluruh Payment System di local.
 projects/
 ├── payment-system-infra/       ← repo ini
 │   ├── docker-compose.yml
-│   ├── init-databases.sh
-│   └── README.md
+│   └── init-databases.sh
 ├── order-service/              ← repo Order Service (sibling folder)
 │   ├── Dockerfile
 │   ├── .dockerignore
