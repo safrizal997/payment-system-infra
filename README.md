@@ -34,10 +34,10 @@ projects/
 ```bash
 # 1. Clone semua repo ke folder yang sama
 cd ~/projects
-git clone <order-service-repo>
-git clone <payment-service-repo>
-git clone <notification-service-repo>
-git clone <payment-system-infra-repo>
+git clone <order-service-repo> https://github.com/safrizal997/order-service
+git clone <payment-service-repo> https://github.com/safrizal997/payment-service
+git clone <notification-service-repo> https://github.com/safrizal997/notification-service
+git clone <payment-system-infra-repo> https://github.com/safrizal997/payment-system-infra
 
 # 2. Jalankan semuanya
 cd payment-system-infra
